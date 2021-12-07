@@ -45,7 +45,7 @@ jobs:
           config_padding: 6%, 10% # 6% width padding, 10% height padding
           token: ${{ secrets.METRICS_TOKEN }}
           output_action: none
-          
+          base: ''
           plugin_skyline: yes
           plugin_skyline_frames: 60
           plugin_skyline_quality: 1
