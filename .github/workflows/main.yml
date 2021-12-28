@@ -1,7 +1,7 @@
 name: 🙋‍♂️ Personal Metrics
 on:
   # Schedule updates
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "0 1,9 * * 1-5"}]
   # Lines below let you run workflow manually and on each commit
   push: 
     branches: "main"
