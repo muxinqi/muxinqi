@@ -51,7 +51,7 @@ jobs:
           plugin_skyline_quality: 1
           plugin_skyline_year: ${{ env.CURRENT_YEAR }}
 
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
