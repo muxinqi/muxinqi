@@ -1,4 +1,4 @@
-# Xinqi Mu
+# Hi, I'm Xinqi (Mason)
 
 I build useful software for the web, mobile, and the occasional thing I wanted to make simpler.
 
