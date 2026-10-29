@@ -5,4 +5,6 @@ I build useful software for the web, mobile, and the occasional thing I wanted t
 I like tools that feel obvious after you use them.
 
 - [CoSplit](https://cosplit.net) - a receipt-splitting app for turning a group bill into something easier to settle
-- [Menu](https://menu.xinqi.mu) - the house menu for things I like to cook
+- [Menu](https://muxinqi.com/en/menu/) - the house menu for things I like to cook
+
+More of what I've built, and the rest of the site, at [muxinqi.com](https://muxinqi.com).
